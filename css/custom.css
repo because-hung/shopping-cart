@@ -1,0 +1,24 @@
+.btn-cart {
+    background-color: transparent;
+    position: relative;
+}
+.btn-cart .badge {
+position: absolute;
+top: -1px;
+right: -1px;
+}
+.dropdown-menu-right{
+    right: 0;
+    left: auto;
+}
+.jumbotron-bg{
+    background-image: url(https://res.cloudinary.com/grohealth/image/upload/f_auto,fl_lossy,q_auto/v1581688713/DCUK/Content/iStock-938993594-1000x600.jpg);
+    background-size: cover;
+    position: center center;
+    min-width: 400px;
+
+}
+
+.bg-lighter{
+    background-color: rgba(255, 255, 255, .4);
+}
