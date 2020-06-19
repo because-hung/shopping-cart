@@ -22,3 +22,10 @@ right: -1px;
 .bg-lighter{
     background-color: rgba(255, 255, 255, .4);
 }
+.box-shadow{
+    box-shadow: 0 3px 5px rgba(0,0,0,.2);
+    transition: box-shadow .3s;
+}
+.box-shadow:hover{
+    box-shadow: 0 5px 10px rgba(0,0,0,.4);
+}
